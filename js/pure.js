@@ -13,3 +13,6 @@ let countryName = "United States";
 let continent = " North America";
 let population =  331900000
 console.log(countryName, continent, population)
+
+
+// data types in JS
