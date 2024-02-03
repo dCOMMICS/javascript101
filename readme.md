@@ -24,6 +24,7 @@
 
 ```
 
+
 # Day 1️⃣ 🌱
 - ` values and variables`
 a value is the smallest unit of information while a variable is a container for storing information which can be used over and over again.
