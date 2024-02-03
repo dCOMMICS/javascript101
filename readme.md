@@ -24,6 +24,10 @@
 
 ```
 
+# Day 1️⃣ 🌱
+- `data types`
+
+# Topics Covered by JavaScript 
 # 👋🏻 Hello World in JavaScript
 
 ```javascript
