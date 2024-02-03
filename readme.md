@@ -28,9 +28,28 @@
 - ` values and variables`
 a value is the smallest unit of information while a variable is a container for storing information which can be used over and over again.
 
+# rules for naming variables
+- ` cannot start with numbers. `
+- ` cannot start with a uppercase letter. `
+- ` cannot start with a javascript reserved keywords `
+- ` must start with a lowercase letter`
+- ` cannot contain spaces. `
+
+always name your variables with rememberable names and descrptive ..... 😂💯
+
+```javascript
+// right way
+let mylastLocation = "Osaka";
+let desiredLocation = " Okinawa "
+// wrong way
+let locationA = "osaka";
+let locationB = " okinawa";
+```
+
 ``` javascript
-let dogs_name = "bruno"; // right way to name variables
-let 3years = 14; // wrong way of naming variables ❌❎
+let dogs_name = "bruno"; // right way to name variables.
+let 3years = 14; // wrong way of naming variables ❌❎ SyntaxError. 
+let name = " Maria"; // allowed javascript reserved keywords but not recommended.
 ```
 - `data types`
 
