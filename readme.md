@@ -32,6 +32,13 @@
 
 ```javascript
     console.log("bright of JavaScript");
+    alert("Hello World"); //alert
+    let firstName = " Jerry";
+    if (firstName=="Jerry") alert("Go Jere");
+
+    lastName = " Kimberly";
+
+    
 
 ```
 
