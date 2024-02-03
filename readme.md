@@ -53,6 +53,38 @@ let name = " Maria"; // allowed javascript reserved keywords but not recommended
 ```
 - `data types`
 
+javascript has two data types
+
+# primitive types
+
+- `number`
+floating point number 👉🏻 used for decimal and integer
+```javascript
+let patientAge = 10;
+```
+- `string`
+sequence of characters 👉🏻 used for text
+```javascript
+let patientName  = "monica";
+```
+- `boolean`
+logical type that can only be true or false 👉🏻 used for taking decision..
+```javascript
+let patientAge = true;
+```
+- `undefined`
+value taken by a variable that is not yet defined ('empty value') 
+```javascript
+let patientName;
+```
+- `null`
+empty value 
+- `symbol`
+not used anymore
+- `big init`
+larger intergers than the Number type can hold
+
+
 # Topics Covered by JavaScript 
 # 👋🏻 Hello World in JavaScript
 
