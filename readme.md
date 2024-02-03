@@ -29,8 +29,8 @@
 a value is the smallest unit of information while a variable is a container for storing information which can be used over and over again.
 
 ``` javascript
-let dogs_name = "bruno";
-let 3years = 14;  wrong way of naming variables ❌❎
+let dogs_name = "bruno"; // right way to name variables
+let 3years = 14; // wrong way of naming variables ❌❎
 ```
 - `data types`
 
