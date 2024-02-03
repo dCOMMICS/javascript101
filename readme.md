@@ -2,6 +2,9 @@
 
 # Prerequisites
 - * ` HTML `
+- ` CSS `
+- ` Computer  and Internet `
+- ` Eager to Learn`
 # 👋🏻 Hello World in JavaScript
 
 
