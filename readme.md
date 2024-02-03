@@ -1,10 +1,10 @@
 # This is a  Learning  Curve for JavaScript Programming...
 
 # Prerequisites
-- * ` HTML `
-- ` CSS `
-- ` Computer  and Internet `
-- ` Eager to Learn`
+ * ` HTML `
+ * ` CSS `
+  * ` Computer  and Internet `
+* ` Eager to Learn`
 # 👋🏻 Hello World in JavaScript
 
 
