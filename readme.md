@@ -25,6 +25,13 @@
 ```
 
 # Day 1️⃣ 🌱
+- ` values and variables`
+a value is the smallest unit of information while a variable is a container for storing information which can be used over and over again.
+
+``` javascript
+let dogs_name = "bruno";
+let 3years = 14;  wrong way of naming variables ❌❎
+```
 - `data types`
 
 # Topics Covered by JavaScript 
@@ -38,7 +45,7 @@
 
     lastName = " Kimberly";
 
-    
+
 
 ```
 
