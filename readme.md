@@ -85,6 +85,36 @@ not used anymore
 - `big init`
 larger intergers than the Number type can hold
 
+# things learnt on day 1️⃣
+```javascript
+// alert("Error")
+
+// console.log("Jerry");
+// console.log(12);
+
+let firstName = " Jerry";
+console.log(firstName); 
+
+
+// lecture 101
+
+let countryName = "United States";
+let continent = " North America";
+let population =  331900000
+console.log(countryName, continent, population)
+
+
+// data types in JS
+
+let isIsland = true;
+
+let language;
+
+console.log(isIsland, language)
+
+console.log(typeof language, isIsland, population, countryName)
+
+```
 
 # Topics Covered by JavaScript 
 # 👋🏻 Hello World in JavaScript

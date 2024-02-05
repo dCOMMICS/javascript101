@@ -22,3 +22,5 @@ let isIsland = true;
 let language;
 
 console.log(isIsland, language)
+
+console.log(typeof language, isIsland, population, countryName)
