@@ -16,3 +16,9 @@ console.log(countryName, continent, population)
 
 
 // data types in JS
+
+let isIsland = true;
+
+let language;
+
+console.log(isIsland, language)
