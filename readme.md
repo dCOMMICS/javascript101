@@ -143,7 +143,10 @@ let is used when the variable can change later or mutate a variable (block-scope
 const is used when the variable wont change later or unmutable variable.
 - `var`
 old way of naming variable not recommended....but you might find it on old codebase or tutorials.... (function-scoped).
-** AVOID  USING VAR **
+**AVOID  USING VAR**
+
+
+
 ```javascript
 const user_birthYear = 1901;
 
