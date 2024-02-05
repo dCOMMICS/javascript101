@@ -154,7 +154,7 @@ let user_age = 30;
 user_age = 41;
 ```
 
-**things covered**
+ # things covered 
 ```javascript
 
 const user_birthYear = 1901;
