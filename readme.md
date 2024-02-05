@@ -135,7 +135,21 @@ console.log(typeof language, isIsland, population, countryName)
 
 
 
+# Day 2️⃣ 🌱
+ <!-- var const and let are used to declare variables in JS  -->
+- `let`
+let is used when the variable can change later or mutate a variable (block-scoped).
+- `const`
+const is used when the variable wont change later or unmutable variable.
+- `var`
+old way of naming variable not recommended....but you might find it on old codebase or tutorials.... (function-scoped).
+** AVOID  USING VAR **
+```javascript
+const user_birthYear = 1901;
 
+let user_age = 30;
+user_age = 41;
+```
 
 
 
