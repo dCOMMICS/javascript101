@@ -6,6 +6,7 @@
   * ` Computer  and Internet `
 * ` Eager to Learn`
 
+
 # linking JS 
 
 ```HTML
@@ -23,7 +24,7 @@
 </html>
 
 ```
-
+# Topics Covered by JavaScript 
 
 # Day 1️⃣ 🌱
 - ` values and variables`
@@ -116,8 +117,8 @@ console.log(typeof language, isIsland, population, countryName)
 
 ```
 
-# Topics Covered by JavaScript 
-# 👋🏻 Hello World in JavaScript
+
+<!-- # 👋🏻 Hello World in JavaScript -->
 
 ```javascript
     console.log("bright of JavaScript");
