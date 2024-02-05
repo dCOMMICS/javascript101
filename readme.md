@@ -154,7 +154,55 @@ let user_age = 30;
 user_age = 41;
 ```
 
+# ** things covered 
+```javascript
 
+const user_birthYear = 1901;
+
+// let is used when the variable can change later or mutate a variable
+
+let user_age = 30;
+user_age = 41;
+
+// //  operators  allows us to transform or combine multiple values...
+//  - arithmetic / mathematical operator
+//  - 
+
+// math operators
+const age_pete = 2014 - 2000;
+const age_miley = age_pete + 11;
+console.log(age_miley, age_pete)
+// console.log(age_pete)
+
+console.log(age_miley * 2, age_pete / 10, 2 ** 3);
+// 2 ** 3 means 2 to the power of 3 = 2*2*2
+
+const given_name = 'Ayaka';
+const sur_name = 'Chiyo';
+console.log(given_name + ' ' + sur_name)
+
+// assignment operator
+
+const mangos_received = 125;
+const mangos_wasted = 20;
+const mangos_arrived = mangos_received - mangos_wasted;
+console.log(mangos_arrived)
+
+let x = 10 +5 ;
+x += 10;
+x *= 4;
+x++;
+x--;
+x--;
+console.log(x)
+
+// comparison operator
+
+console.log(age_miley > age_pete);
+console.log(age_pete >= 18);
+
+const isFullage = age_pete >= 18 ; 
+```
 
 
 
