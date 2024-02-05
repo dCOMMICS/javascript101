@@ -4,14 +4,14 @@
 // console.log(12);
 
 let firstName = " Jerry";
-console.log(firstName); 
+console.log(firstName);
 
 
 // lecture 101
 
 let countryName = "United States";
 let continent = " North America";
-let population =  331900000
+let population = 331900000
 console.log(countryName, continent, population)
 
 
@@ -45,3 +45,25 @@ const user_birthYear = 1901;
 
 let user_age = 30;
 user_age = 41;
+
+// //  operators  allows us to transform or combine multiple values...
+//  - arithmetic / mathematical operator
+//  - 
+
+
+const age_pete = 2014 - 2000;
+const age_miley = age_pete + 11;
+console.log(age_miley, age_pete)
+// console.log(age_pete)
+
+console.log(age_miley * 2, age_pete / 10, 2 ** 3);
+// 2 ** 3 means 2 to the power of 3 = 2*2*2
+
+const given_name = 'Ayaka';
+const sur_name = 'Chiyo';
+console.log(given_name + ' ' + sur_name)
+
+const mangos_received = 125;
+const mangos_wasted = 20;
+const mangos_arrived = mangos_received - mangos_wasted;
+console.log(mangos_arrived)
