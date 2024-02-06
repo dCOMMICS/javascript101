@@ -84,3 +84,14 @@ console.log(age_miley > age_pete);
 console.log(age_pete >= 18);
 
 const isFullage = age_pete >= 18 ; 
+
+
+// lecture : let const and var
+const spokenLanguages = "English";
+const countryNames = "German";
+const continentNames = "Europe";
+
+// basic operations
+
+let myCountryPopulation = 10000000;
+ 
