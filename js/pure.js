@@ -121,3 +121,22 @@ class Dictionary {
 const test = new Dictionary(['cat', 'car', 'bar']);
 console.log(test.isInDict('cat')); // true
 console.log(test.isInDict('dog')); // false
+
+
+// function in javascript
+// q4 = what is IIFE
+const h = 124;
+function trapezium(num) {
+    console.log(num + num / 2 * h)
+}
+
+trapezium(15);
+
+(function () {
+    return (function () {
+        console.log(object)
+    })();
+})();
+
+// function scope
+

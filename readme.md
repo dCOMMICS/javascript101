@@ -204,7 +204,38 @@ console.log(age_pete >= 18);
 const isFullage = age_pete >= 18 ; 
 ```
 
+#  JavaScript Interview Prep: Functions, Closures, Curryingfunctions in JS 
+```javascript
+class Dictionary {
+  constructor(wordsArray) {
+    this.dict = new Set(...Dictionary.apply.words);
+  }
 
+  isInDict(word) {
+    return this.dict.has(word);
+  }
+}
+
+const test = new Dictionary(['cat', 'car', 'bar']);
+console.log(test.isInDict('cat')); // true
+console.log(test.isInDict('dog')); // false
+
+
+// function in javascript
+// q4 = what is IIFE
+const h = 124;
+function trapezium(num) {
+    console.log(num + num / 2 * h)
+}
+
+trapezium(15);
+
+(function () {
+    return (function () {
+        console.log(object)
+    })();
+})();
+```
 
 
 
