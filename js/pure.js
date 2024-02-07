@@ -94,4 +94,30 @@ const continentNames = "Europe";
 // basic operations
 
 let myCountryPopulation = 10000000;
- 
+
+
+// class Dictionary (){
+//     construcror (){
+//         isInDict(word) {
+
+//         }
+//     }
+// }
+
+// const test = new Dictionary (['cat', 'car', 'bar' ])
+// console.log(test .isInDict('cat'));
+
+
+class Dictionary {
+  constructor(wordsArray) {
+    this.dict = new Set(...Dictionary.apply.words);
+  }
+
+  isInDict(word) {
+    return this.dict.has(word);
+  }
+}
+
+const test = new Dictionary(['cat', 'car', 'bar']);
+console.log(test.isInDict('cat')); // true
+console.log(test.isInDict('dog')); // false
