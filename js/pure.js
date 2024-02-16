@@ -146,6 +146,17 @@ let myCountryPopulation = 10000000;
 
 // back on track
 // left to right operation
-console.log(25 -10 -5)
+// console.log(25 -10 -5)
 
-let Re
+let Read_1, Read_2;
+
+Read_1 = Read_2 = 25 - 10 - 5;  // Read_1 = Read_2 =10
+console.log(Read_1,Read_2);
+
+
+const now = 2024;
+const age_aliya = now - 1999;
+const age_mercy = age_aliya - 10;
+
+const average_age = (age_aliya + age_mercy) /2
+console.log(age_aliya, age_mercy, average_age)
