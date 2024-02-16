@@ -141,3 +141,11 @@ let myCountryPopulation = 10000000;
 
 // function scope
 
+
+
+
+// back on track
+// left to right operation
+console.log(25 -10 -5)
+
+let Re
