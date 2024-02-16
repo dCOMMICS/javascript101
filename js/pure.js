@@ -160,3 +160,17 @@ const age_mercy = age_aliya - 10;
 
 const average_age = (age_aliya + age_mercy) /2
 console.log(age_aliya, age_mercy, average_age)
+
+
+
+const mass_yard = 78;
+const height_yard =1.65;
+
+const mass_park =92;
+const height_park =1.95;
+
+const BMI_yard = mass_yard / height_yard ** 2 
+const BMI_park = mass_park / (height_park * height_park);
+const yardHigherBMI  = BMI_yard > BMI_park;
+
+console.log(BMI_yard, BMI_park)
