@@ -109,35 +109,35 @@ let myCountryPopulation = 10000000;
 
 
 // functions in JS
-class Dictionary {
-  constructor(wordsArray) {
-    this.dict = new Set(...Dictionary.apply.words);
-  }
+// class Dictionary {
+//   constructor(wordsArray) {
+//     this.dict = new Set(...Dictionary.apply.words);
+//   }
 
-  isInDict(word) {
-    return this.dict.has(word);
-  }
-}
+//   isInDict(word) {
+//     return this.dict.has(word);
+//   }
+// }
 
-const test = new Dictionary(['cat', 'car', 'bar']);
-console.log(test.isInDict('cat')); // true
-console.log(test.isInDict('dog')); // false
+// const test = new Dictionary(['cat', 'car', 'bar']);
+// console.log(test.isInDict('cat')); // true
+// console.log(test.isInDict('dog')); // false
 
 
-// function in javascript
-// q4 = what is IIFE
-const h = 124;
-function trapezium(num) {
-    console.log(num + num / 2 * h)
-}
+// // function in javascript
+// // q4 = what is IIFE
+// const h = 124;
+// function trapezium(num) {
+//     console.log(num + num / 2 * h)
+// }
 
-trapezium(15);
+// trapezium(15);
 
-(function () {
-    return (function () {
-        console.log(object)
-    })();
-})();
+// (function () {
+//     return (function () {
+//         console.log(object)
+//     })();
+// })();
 
 // function scope
 
