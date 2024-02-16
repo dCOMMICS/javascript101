@@ -108,6 +108,7 @@ let myCountryPopulation = 10000000;
 // console.log(test .isInDict('cat'));
 
 
+// functions in JS
 class Dictionary {
   constructor(wordsArray) {
     this.dict = new Set(...Dictionary.apply.words);
