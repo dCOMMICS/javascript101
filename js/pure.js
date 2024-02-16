@@ -175,3 +175,22 @@ const yardHigherBMI  = BMI_yard > BMI_park;
 console.log(BMI_yard > BMI_park);
 
 console.log(BMI_yard, BMI_park)
+
+
+// strings and template literals
+
+const my_Name_a = 'Ibrahim';
+const my_Name_b = 'Alabi';
+const my_Name_c = 'Michael';
+const my_placeof_birth = "Tsurui"
+const my_b = 'Japan'
+const birth_Year = 2002;
+
+const Ibrahim = "I'm a child of " +  my_Name_b +  my_Name_c + " born on " + birth_Year + "at" + my_placeof_birth;
+console.log(Ibrahim)
+
+const IbrahimNew = `I'm a Child of ${ my_Name_b} ${my_Name_c} born on ${birth_Year} in ${my_placeof_birth} Village ${my_b}.`
+console.log(IbrahimNew)
+
+
+console.log('String representation \n\ could \n\ be so fun');
