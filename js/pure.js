@@ -161,7 +161,7 @@ const age_mercy = age_aliya - 10;
 const average_age = (age_aliya + age_mercy) /2
 console.log(age_aliya, age_mercy, average_age)
 
-
+// challenge 101 solution
 
 const mass_yard = 78;
 const height_yard =1.65;
