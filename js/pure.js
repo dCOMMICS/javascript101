@@ -83,7 +83,8 @@ console.log(x)
 console.log(age_miley > age_pete);
 console.log(age_pete >= 18);
 
-const isFullage = age_pete >= 18 ; 
+const isFullage = age_pete >= 18 ;
+ 
 
 
 // lecture : let const and var
